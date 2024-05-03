@@ -1,0 +1,13 @@
+.post{
+    display: flex;
+    flex-direction: column;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+}
+
+.username{
+    display: flex;
+    flex-direction: row;
+}
